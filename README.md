@@ -1,2 +1,2 @@
-# 2D-Roguelike-Game-Unity
+# 2D Roguelike Game
  2D game created in Unity 5
